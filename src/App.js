@@ -1,12 +1,20 @@
-import "./App.css";
-import world from "./world.jpg";
+import React from "react";
 
-function App() {
+import "./App.css";
+import Dictionary from "./Dictionary";
+
+export default function App() {
   return (
     <div className="App">
-      <img src={world} className="map img-fluid" alt="logo" />
+      <div className="container">
+        <header className="app-header">Dictionary</header>
+        <main>
+          <Dictionary />
+        </main>
+        <footer className="footer">
+          Open Source Code | By Paulette Zaldivar-Flores | Hosted on Netlify
+        </footer>
+      </div>
     </div>
   );
 }
-
-export default App;
