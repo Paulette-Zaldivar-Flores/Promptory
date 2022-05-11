@@ -7,13 +7,18 @@ export default function Results(props) {
     return (
       <div className="results">
         <h2>{props.results.word}</h2>
-        {props.results.phonetics.map(function (phonetic, index) {
-          return (
-            <div key={index}>
-              <Phonetic phonetic={phonetic} />
-            </div>
-          );
-        })}
+        {props.results.phonetics
+          .filter(function (phonetic) {
+            return phonetic.audio;
+          })
+          .map(function (phonetics, index) {
+            return (
+              <div key={index}>
+                <Phonetics phonetics={phonetics} />
+              </div>
+            );
+          })}
+
         {props.results.meanings.map(function (meaning, index) {
           return (
             <div key={index}>
