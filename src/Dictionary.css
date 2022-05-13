@@ -8,7 +8,7 @@
 }
 
 .Dictionary section {
-  background: white;
+  background: #f7efd8;
   padding: 30px;
   border-radius: 6px;
   box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
@@ -19,8 +19,13 @@
   width: 100%;
   border-radius: 6px;
   padding: 6px 10px;
-  color: #333;
+  color: #5a5049;
   border: 1px solid #ddd;
+}
+.Dictionary input:focus {
+  outline: none !important;
+  border-color: #b78763;
+  box-shadow: 0 0 10px #b78763;
 }
 
 .Dictionary .hint {

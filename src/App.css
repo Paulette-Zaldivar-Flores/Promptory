@@ -1,10 +1,12 @@
 header {
   font-size: 40px;
   text-align: center;
+  color: #fff;
+  font-family: "Tangerine", cursive;
 }
 
 footer {
-  font-size: 12px;
+  font-size: 20px;
   text-align: center;
 }
 
