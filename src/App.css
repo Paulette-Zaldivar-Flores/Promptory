@@ -1,5 +1,5 @@
 header {
-  font-size: 40px;
+  font-size: 80px;
   text-align: center;
   color: #fff;
   font-family: "Tangerine", cursive;
@@ -8,12 +8,13 @@ header {
 footer {
   font-size: 20px;
   text-align: center;
+  color: #fff;
 }
 
 body {
-  background: #f9f8fe;
-}
-
-a {
-  color: #9670f4;
+  background-image: url("images/world.jpg");
+  background-size: cover;
+  background-color: #cccccc;
+  color: #332a1a;
+  font-family: "Josefin Slab", serif;
 }
