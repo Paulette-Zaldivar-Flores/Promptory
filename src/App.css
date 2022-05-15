@@ -1,7 +1,7 @@
 header {
   font-size: 80px;
   text-align: center;
-  color: #fff;
+  color: #4e211f;
   font-family: "Tangerine", cursive;
 }
 
@@ -9,12 +9,46 @@ footer {
   font-size: 20px;
   text-align: center;
   color: #fff;
+  background: rgb(77, 194, 178);
 }
 
 body {
-  background-image: url("images/world.jpg");
   background-size: cover;
   background-color: #cccccc;
   color: #332a1a;
   font-family: "Josefin Slab", serif;
+}
+
+a {
+  font-weight: 500;
+  color: #fff;
+  text-decoration: none;
+}
+
+.App video {
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 700px) {
+  footer {
+    text-align: center;
+    font-size: 13px;
+  }
+  footer.a {
+    text-align: center;
+    font-size: 13px;
+  }
+  .App video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
 }
