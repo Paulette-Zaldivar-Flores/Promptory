@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import Dictionary from "./Dictionary";
 import bgImage from "./video/background-image.mp4";
+import Footer from "./Footer";
 
 export default function App() {
   return (
@@ -11,28 +12,11 @@ export default function App() {
         <video autoPlay loop muted>
           <source src={bgImage} type="video/mp4" />
         </video>
-
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="book" />
         </main>
       </div>
-      <footer className="footer">
-        <a
-          href="https://github.com/Void321/React-Dictionary"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Open-source code
-        </a>{" "}
-        |by:Paulette Zaldivar Flores | Hosted on{" "}
-        <a
-          href="https://incandescent-froyo-b0949f.netlify.app/"
-          target="blank"
-          rel="noreferrer"
-        >
-          Netlify{" "}
-        </a>
-      </footer>
+      <Footer />
     </div>
   );
 }

@@ -9,11 +9,9 @@ header {
   font-family: "Tangerine", cursive;
 }
 
-footer {
-  font-size: 20px;
-  text-align: center;
-  color: #fff;
-  background: rgb(77, 194, 178);
+html,
+body {
+  overflow-x: hidden;
 }
 
 body {

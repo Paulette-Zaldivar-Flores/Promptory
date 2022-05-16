@@ -2,3 +2,7 @@
   border-radius: 4px;
   margin-bottom: 20px;
 }
+
+.Photos img:hover {
+  transform: scale(1.1);
+}
