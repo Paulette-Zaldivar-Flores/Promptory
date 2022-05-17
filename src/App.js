@@ -13,7 +13,7 @@ export default function App() {
           <source src={bgImage} type="video/mp4" />
         </video>
         <main>
-          <Dictionary defaultKeyword="book" />
+          <Dictionary defaultKeyword="Compass" />
         </main>
       </div>
       <Footer />
