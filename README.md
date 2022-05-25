@@ -21,7 +21,6 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Bootstrap</li>
   <li>Dictionary API</li>
    <li>Images API</li>
   <li>Responsive Web Development</li> </ul>
