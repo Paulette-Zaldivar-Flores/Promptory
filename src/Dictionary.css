@@ -50,4 +50,10 @@
   .Dictionary input {
     width: 200px;
   }
+  .Dictionary h1 {
+    font-size: 15px;
+  }
+  .Dictionary button {
+    font-size: 20px;
+  }
 }
