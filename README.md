@@ -1,3 +1,83 @@
+## 📖 React Dictionary App 
+> A dictionary app that allows you to search any word.
+> Live demo [_here_](https://incandescent-froyo-b0949f.netlify.app/).
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+
+
+## General Information
+<ul><li>The goal of this project was to create a dictionary app that allows you to search for any word returning; definition, synonyms, phonetics and images describing the word</li></ul>
+
+
+## Technologies Used
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Dictionary API</li>
+   <li>Images API</li>
+  <li>Responsive Web Development</li> </ul>
+  
+  
+  Communication Tool
+<ul>
+  <li>Axios</li></ul>
+  
+ ## Framework 
+<ul><li>React.js</li>
+  <li>Bootstrap</li></ul>
+  
+
+
+
+## Features
+
+<ul>
+  <li>Search engine ready for searching any word</li>
+ 
+
+
+## Screenshots
+
+
+<img width="355" alt="dictionary copy" src="https://user-images.githubusercontent.com/96970580/170033170-b88f1cd2-5a91-47b1-adb6-446c2ef34cb1.png">
+
+
+## Project Status
+<ul>
+<li>Project is: in progress</li></ul>
+
+
+## Room for Improvement
+<ul>
+  <li>Improve responsiveness</li></ul>
+
+
+
+## To do:
+<ul>
+  <li>Make responsive for all screens</li></ul>
+
+
+## Acknowledgements
+ 
+ This README.md was inspired by <a href ="https://github.com/ritaly"> Ritaly</a>
+    
+   
+
+
+## Contact
+Created by [Paulette](https://pzf.netlify.app/) - feel free to contact me!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
