@@ -16,3 +16,13 @@
   display: inline;
   font-size: 14px;
 }
+
+@media (max-width: 700px) {
+  .Synonyms li {
+    font-size: 12px;
+    margin: 5px 0 0 5px;
+    display: inline-table;
+    padding: 5px 10px;
+    border-radius: 15px;
+  }
+}
