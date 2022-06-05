@@ -17,6 +17,11 @@
   font-size: 14px;
 }
 
+.Synonyms ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 @media (max-width: 700px) {
   .Synonyms li {
     font-size: 12px;
