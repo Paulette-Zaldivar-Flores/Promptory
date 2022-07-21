@@ -5,7 +5,7 @@
 header {
   font-size: 80px;
   text-align: center;
-  color: #4e211f;
+  color: #f7efd8;
   font-family: "Tangerine", cursive;
 }
 
@@ -62,7 +62,7 @@ a {
   html,
   body {
     overflow-x: hidden;
-    height: 100%;
+
     overscroll-behavior-y: none;
   }
 }
