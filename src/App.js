@@ -15,6 +15,11 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="Compass" />
         </main>
+        <div>
+          <p id="rights">
+            @ 2022 Paulette Zaldivar Flores. All Rights Reserved.
+          </p>
+        </div>
       </div>
       <Footer />
     </div>
