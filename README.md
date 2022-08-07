@@ -1,4 +1,4 @@
-## 📖 React Dictionary App 
+## 📖 Promptory
 > A dictionary app that allows you to search any word.
 > Live demo [_here_](https://incandescent-froyo-b0949f.netlify.app/).
 
