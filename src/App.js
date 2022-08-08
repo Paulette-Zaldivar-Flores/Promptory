@@ -8,7 +8,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="app-header">Dictionary App</header>
+        <header className="app-header">Promptory</header>
         <video autoPlay loop muted>
           <source src={bgImage} type="video/mp4" />
         </video>
