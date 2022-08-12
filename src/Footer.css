@@ -2,15 +2,13 @@ footer {
   font-size: 30px;
   text-align: center;
   color: #fff;
-
-  background-color: #4e211f;
-
+  width: 100% !important;
   padding-top: 10px;
 }
 
 footer {
   margin-bottom: 0px;
-  width: 100%;
+  position: absolute;
   height: 60px;
 }
 
