@@ -19,8 +19,8 @@
 
 ## Technologies Used
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
   <li>Dictionary API</li>
    <li>Images API</li>
   <li>Responsive Web Development</li> </ul>
