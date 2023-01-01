@@ -9,7 +9,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="app-header">Promptory</header>
-        <video autoPlay loop muted>
+        <video autoPlay playsinline loop muted>
           <source src={bgImage} type="video/mp4" />
         </video>
         <main>
