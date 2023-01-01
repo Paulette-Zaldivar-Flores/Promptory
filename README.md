@@ -1,6 +1,6 @@
 ## 📖 Promptory
 > A dictionary app that allows you to search any word.
-> Live demo [_here_](https://incandescent-froyo-b0949f.netlify.app/).
+> Live demo [_here_](https://promptory.netlify.app/).
 
 ## Table of Contents
 * [General Info](#general-information)
