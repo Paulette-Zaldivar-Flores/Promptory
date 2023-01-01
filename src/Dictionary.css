@@ -17,6 +17,21 @@
   margin-left: 5px;
 }
 
+.Dictionary button:hover{
+  background-color: #6e3c39;
+}
+
+.Dictionary button:active {
+  box-shadow:
+    7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+  transform: translateY(4px);
+  /* Moving button 4px to y-axis */
+}
+
+
+
+
+
 .Dictionary section {
   background: #f7efd8;
   padding: 30px;

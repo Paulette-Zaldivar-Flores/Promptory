@@ -56,7 +56,7 @@ export default function Dictionary(props) {
             />
 
             <button type="submit" className="searchButton">
-              ✧
+              Search
             </button>
           </form>
           <div className="hint">
