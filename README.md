@@ -19,8 +19,8 @@
 
 ## Technologies Used
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
   <li>Dictionary API</li>
    <li>Images API</li>
   <li>Responsive Web Development</li> </ul>
@@ -74,7 +74,7 @@
 
 
 ## Contact
-Created by [Paulette](https://pzf.netlify.app/) - feel free to contact me!
+Created by [Paulette](https://paulette-zaldivar-flores.netlify.app/) - feel free to contact me!
 
 
 
