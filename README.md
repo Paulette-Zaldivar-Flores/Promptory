@@ -45,9 +45,9 @@
 
 
 ## Screenshots
+<img width="1278" alt="promptory" src="https://user-images.githubusercontent.com/96970580/210964075-a4187465-0273-42f9-a13b-9fed341e8f01.png">
 
 
-<img width="355" alt="dictionary copy" src="https://user-images.githubusercontent.com/96970580/170033170-b88f1cd2-5a91-47b1-adb6-446c2ef34cb1.png">
 
 
 ## Project Status
