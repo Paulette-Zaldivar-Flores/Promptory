@@ -9,7 +9,6 @@
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -64,13 +63,6 @@
 ## To do:
 <ul>
   <li>Make responsive for all screens</li></ul>
-
-
-## Acknowledgements
- 
- This README.md was inspired by <a href ="https://github.com/ritaly"> Ritaly</a>
-    
-   
 
 
 ## Contact
